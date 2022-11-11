@@ -1,0 +1,86 @@
+{ 
+  "Cerveja-Artesanal":[
+  {"id":1,
+  "Nome" : "Colorado",
+  "Tipo" : "Indica",
+  "Teor Alcoolico" : "7%"
+  },
+  
+  {"id":2,
+  "Nome" : "Hocus Pocus",
+  "Tipo" : "Magic Trap",
+  "Teor Alcoolico" : "8,5%"
+  },
+  
+  {"id":3,
+  "Nome" : "Baden Baden",
+  "Tipo" : "Ipa",
+  "Teor Alcoolico" : "6,5%"
+  },
+  
+  {"id":4,
+  "Nome" : "Colorado",
+  "Tipo" : "Appia",
+  "Teor Alcoolico" : "5,5%"
+  }
+  ],
+  
+  "Cerveja-Pilsen":[
+  {"id":1,
+  "Nome" : "Heineken",
+  "Tipo" : "Puro Malte",
+  "Teor Alcoolico" : "5%"
+  },
+  
+  {"id":2,
+  "Nome" : "Bohemia",
+  "Tipo" : "Puro Malte",
+  "Teor Alcoolico" : "5%"
+  },
+  
+  {"id":3,
+  "Nome" : "Eisenbhan",
+  "Tipo" : "Puro Malte",
+  "Teor Alcoolico" : "4,84%"
+  },
+  
+  {"id":4,
+  "Nome" : "Stella Artois",
+  "Tipo" : "Puro Malte",
+  "Teor Alcoolico" : "5%"
+  }
+  ],
+  
+  "Cerveja-Preta":[
+  {"id":1,
+  "Nome" : "Caracu",
+  "Tipo" : "Cerveja Escura",
+  "Teor Alcoolico" : "3%"
+  },
+  
+  {"id":2,
+  "Nome" : "Petra",
+  "Tipo" : "Premium",
+  "Teor Alcoolico" : "4%"
+  },
+  
+  {"id":3,
+  "Nome" : "Brahma",
+  "Tipo" : "Malzbier",
+  "Teor Alcoolico" : "3,5%"
+  },
+  
+  {"id":4,
+  "Nome" : "Colorado",
+  "Tipo" : "Demoiselle",
+  "Teor Alcoolico" : "6%"
+  }
+  ]
+  }
+  
+   
+  
+  
+  
+  
+  
